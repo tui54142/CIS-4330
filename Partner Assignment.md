@@ -9,5 +9,8 @@ As you can see from both images, while Docker is running the lines of code, my P
 
 ## Some things I found playing with docker
 So admittedly, I was very lost but I figured that through Ubuntu I can manipulate the way docker runs and I can see in real time what images I was creating as well as running through Ubuntu command. I tested a simple command that makes sure that docker is installed correctly which was $docker run hello-world. At first it wasn't working since the image wasn't created yet, but once it was created the following was displayed on the Ubuntu command.
+![Image of Commands Using Docker using Ubuntu](https://github.com/tui54142/CIS-4330/blob/main/docker_run_hello-world.PNG)
+![Images in Docker](https://github.com/tui54142/CIS-4330/blob/main/images_docker.PNG)
+
 
 
