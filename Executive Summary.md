@@ -8,4 +8,5 @@ The reports goes into how the API gateways enforce different policies which incl
 - Traffic management which consists of requesting routing, load balancing and throttling
 - Monitoring which includes observing and analyzing system health
 - Lastly, transformation which relates to versioning, multi-experience support and semantic reconciliation(The ability to recognize two objects are the same when being described differently) 
+
 Some prominent API gateways include Google Apigee, Oracle API Gateway, Kong and Tyk. All in all, API gateways can be summarized as a centralized access point(s).
